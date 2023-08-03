@@ -1,0 +1,19 @@
+
+  .nav-list {
+    display: flex;
+    gap: 20px;
+    
+  }
+  
+  .nav-list a {
+    text-decoration: none;
+    color: black;
+    border-bottom: none;
+   text-align: center;
+   margin-top: 1%;
+   margin-left: 10%;
+
+  }
+  
+  
+  

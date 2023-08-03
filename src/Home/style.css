@@ -1,0 +1,77 @@
+.img{
+    width: 99%;
+    height: 1%;
+}
+
+.ababuro{
+    color: rgb(8, 14, 10);
+    margin-top: -47%;
+  
+    margin-left: 60%;
+    margin-right: 10%;
+    /* z-index: -1; */
+}
+.abhotel{
+    font-size: 40px;
+}
+#beyond{
+    margin-left: 60%;
+    margin-left: 10%;
+}
+.circle{
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    margin-left: 30%;
+    margin-top: 3%;
+}
+.dinning{
+    display: flex;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 3%;
+    gap: 90px;
+}
+.swimming{
+    display: flex;
+    margin-left: 15%;
+    margin-right: 8%;
+    gap: 90px;
+    margin-top: 3%;
+}
+.sleeping{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 8%;
+    gap: 90px;
+    margin-top: 3%;
+}
+.conf{
+    display: flex;
+    margin-left: 8%;
+    margin-right: 8%;
+    gap: 90px;
+    margin-top: 3%;
+}
+.fre{
+    width: 210%;
+    height: 210%;
+}
+.free{
+    width: 50%;
+    height: 70%;
+}
+h1{
+    color: rgb(180, 128, 32);
+}
+.offers{
+    display: flex;
+    margin-left: 20%;
+    gap: 10%;
+    ;
+}
+.vid{
+background-attachment: fixed;
+margin-top: 3%;
+overflow: hidden;
+}
